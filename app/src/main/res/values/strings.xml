@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">homeworkFourteenth2</string>
+    <array name="dishArray">
+        <item>凉菜</item>
+        <item>创意菜</item>
+        <item>小吃</item>
+        <item>时令</item>
+        <item>汤</item>
+        <item>海鲜</item>
+        <item>蒸菜</item>
+        <item>面食</item>
+    </array>
+</resources>
